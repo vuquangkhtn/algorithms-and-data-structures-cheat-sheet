@@ -669,6 +669,8 @@ The function performs a single loop through the array, and the time taken to ite
 
 Therefore, the time complexity of the function is linear with respect to the size of the input array.
 
+There are another example using Side Window is [Merge Interval](./docs/MergeIntervals/MergeIntervals.md).
+
 <!-- TOC --><a name="divide-and-conquer"></a>
 ### Divide-and-Conquer
 
